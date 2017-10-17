@@ -13,12 +13,12 @@ disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: https://github.com/ernestoaguaysol
+facebook_username: https://www.facebook.com/ernestoaguaysol
+twitter_username: https://twitter.com/ernestoaguaysol
+instagram_username: https://www.instagram.com/ernestoaguaysol
+linkedin_username: https://www.linkedin.com/in/ernestoaguaysol/
+# medium_username: medium_username
 
 # Build settings
 markdown: kramdown
@@ -32,11 +32,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Inicio
     url: /
-  - title: About
+  - title: Acerca de mi
     url: /about/
-  - title: Contact
+  - title: Contacto
     url: /contact/
 
 # Exclude my node related stuff
