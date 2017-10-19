@@ -3,7 +3,10 @@ layout: post
 title: "Instalar Node.js y npm"
 description: Como instalar node.js y el gestor de paquetes npm.
 image: 'http://res.cloudinary.com/ernestoaguaysol/image/upload/c_fill,h_399,w_760/v1508424077/nodeNPM_er5vhd.jpg'
-category: 'blog'
+category: 'instalar'
+tags:
+- node
+- npm
 twitter_text: Como instalar node.js y el gestor de paquetes npm.
 introduction: Veremos que el node.js y el gestor de paquetes npm para desarrollar aplicaciones del lado del servidor.
 ---
