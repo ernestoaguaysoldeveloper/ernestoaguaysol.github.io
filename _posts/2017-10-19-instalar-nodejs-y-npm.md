@@ -8,15 +8,20 @@ twitter_text: Como instalar node.js y el gestor de paquetes npm.
 introduction: Veremos que el node.js y el gestor de paquetes npm para desarrollar aplicaciones del lado del servidor.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<a href="https://nodejs.org/es/">Node.js</a>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Node es un intérprete *Javascript* del lado del servidor que cambia la noción de cómo debería trabajar un servidor. Su meta es permitir a un programador construir aplicaciones altamente escalables y escribir código que maneje decenas de miles de conexiones simultáneas en una sólo una máquina física.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Inline HTML elements
+<a href="https://www.npmjs.com/">Npm</a>
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+npm *(node package manager)* es un gestor de paquetes de **node.js**, que nos permite descargar librerías y enlazarlas o descargar programas de js
+
+> El ecosistema de paquetes de **Node.js**, **npm**, es el ecosistema mas grande de librerías de código abierto en el mundo..
+
+## Instalar Node.js y npm
+
+Descargar el instalador de [node.js](https://nodejs.org/es/). Recomendable que sea de soporte extendido LTS.
 
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
